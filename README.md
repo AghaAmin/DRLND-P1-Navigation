@@ -26,5 +26,5 @@ The task is episodic, and in order to solve the environment, an agent must get a
 * Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
 * Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
 
-4- run Navigation.ipynb file in Jupyter Notebook.
+4- Run Navigation.ipynb file in Jupyter Notebook.
 
