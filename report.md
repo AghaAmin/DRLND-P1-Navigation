@@ -34,4 +34,21 @@ The following two techniques were implemented for learning:
 
 At each step, an agent will take an epsilon greedy action, save the experience in the memory. The agent also learns periodically, where the number of steps reaches a specific number.
 
-## 5. Training Parameters and Procedure
+## 5. Training Parameters and Result
+
+### 5.1 parameters
+BUFFER_SIZE = int(1e5)  # replay buffer size\
+BATCH_SIZE = 64         # minibatch size\
+GAMMA = 0.99            # discount factor\
+TAU = 1e-3              # for soft update of target parameters\
+LR = 5e-4               # learning rate \
+UPDATE_EVERY = 4        # how often to update the network\
+eps_start = 1.0\
+eps_end = 0.0002\
+eps_decay = 0.9\
+
+The problem got solved after the episode 
+
+![alt text](https://github.com/AghaAmin/DRLND-P1-Navigation/blob/master/images/Result.png)
+## 6. Future Work
+implemeting [rainbow](https://arxiv.org/abs/1710.02298)
