@@ -45,7 +45,7 @@ LR = 5e-4               # learning rate \
 UPDATE_EVERY = 4        # how often to update the network\
 eps_start = 1.0\
 eps_end = 0.0002\
-eps_decay = 0.9\
+eps_decay = 0.9
 
 The problem got solved after the episode 
 
