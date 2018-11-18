@@ -47,7 +47,7 @@ eps_start = 1.0\
 eps_end = 0.0002\
 eps_decay = 0.9
 
-The problem got solved after the episode 
+The problem got solved after the episode 263.
 
 ![alt text](https://github.com/AghaAmin/DRLND-P1-Navigation/blob/master/images/Result.png)
 ## 6. Future Work
