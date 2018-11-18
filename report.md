@@ -51,4 +51,4 @@ The problem got solved after the episode
 
 ![alt text](https://github.com/AghaAmin/DRLND-P1-Navigation/blob/master/images/Result.png)
 ## 6. Future Work
-implemeting [rainbow](https://arxiv.org/abs/1710.02298)
+implementing [rainbow](https://arxiv.org/abs/1710.02298)
